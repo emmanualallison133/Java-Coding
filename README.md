@@ -1,3 +1,3 @@
 # Java-Coding-Assignments
-This is a compilation of all the Java code I have made.
+This is a compilation of all the Java code I have made or was assigned to add my own code to.
 All of these projects were made in NetBeans, so it is best to import the .zip files into NetBeans to see and test them.
