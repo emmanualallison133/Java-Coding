@@ -4,5 +4,4 @@ All of these projects were made in NetBeans, so it is best to download and impor
 
 The .java files for the programs are in the src folder of each downloaded .zip file, so even if you use another IDE, the programs should work so long as each of the required .java programs are in the same folder.
 
-Contact Information:
-Email: emmanualallison133@gmail.com
+Contact Information:emmanualallison133@gmail.com
